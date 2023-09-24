@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://nishantchamate.github.io/Portfolio/](https://nishantchamate.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nishantchamate.github.io/Port-Folio/)
 
 - 💬 Ask me about **WebDev**
 
