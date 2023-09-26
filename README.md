@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishant Chamate</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantchamate&label=Profile%20views&color=0e75b6&style=flat" alt="nishantchamate" /> </p>
+
 - 🔭 I’m currently working on **Vehicle Tracker**
 
 - 🌱 I’m currently learning **React**
