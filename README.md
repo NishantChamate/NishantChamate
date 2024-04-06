@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nishantchamate.github.io/Port-Folio/](https://nishantchamate.github.io/Port-Folio/)
 
-- 💬 Ask me about **WebDev**
+- 💬 Ask me about **Web-Dev**
 
 - 📫 How to reach me **hellonishantchamate@gmail.com**
 
