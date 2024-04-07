@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vehicle Tracker**
 
-- 🌱 I’m currently learning **Daisy UI**
+- 🌱 I’m currently learning **Daisy-UI**
 
 - 👨‍💻 All of my projects are available at [https://nishantchamate.github.io/Port-Folio/](https://nishantchamate.github.io/Port-Folio/)
 
