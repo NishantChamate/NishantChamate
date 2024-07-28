@@ -72,8 +72,15 @@
 <br><br>
 ![Nishant's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NishantChamate&theme=radical&hide_border=true)
 <br><br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 <br><br>
+<p align='center'>
+<img align="center" src="https://leetcard.jacoblin.cool/nishant_chamate?theme=dark&font=Roboto&ext=heatmap" height="300" width="600"/>
+<br><br>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
