@@ -61,7 +61,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## 📊 GitHub Stats:
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ![](https://github-readme-stats.vercel.app/api?username=NishantChamate&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -75,7 +74,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <br><br>
+
 <p align='center'>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <br><br>
 <img align="center" src="https://leetcard.jacoblin.cool/nishant_chamate?theme=dark&font=Roboto&ext=heatmap" height="300" width="600"/>
 <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
