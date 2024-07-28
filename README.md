@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://twitter.com/nishant_chamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_chamate" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nishant-chamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-chamate" height="30" width="40" /></a>
-<a href="https://instagram.com/nishant_chamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_chamate" height="30" width="40" /></a>
+<a href="https://instagram.com/nisssssssssssssssssshant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishant_chamate" height="30" width="40" /></a>
 <a href="https://medium.com/@nishant-chamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nishant-chamate" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/nishant_chamate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant_chamate" height="30" width="40" /></a>
 </p>
