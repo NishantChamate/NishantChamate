@@ -32,17 +32,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nishantchamate&label=Profile%20views&color=0e75b6&style=flat" alt="nishantchamate" /> </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-- 🔭 I’m currently working on **Vehicle Tracker**
+- 🔭 I’m currently working on **Predicting the Future**
 
-- 🌱 I’m currently learning **DaisyUI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://nishantchamate.github.io/Port-Folio/](https://nishantchamate.github.io/Port-Folio/)
 
-- 💬 Ask me about **WebDev**
+- 💬 Ask me about **WebDev, ML**
 
 - 📫 How to reach me **hellonishantchamate@gmail.com**
 
 - ⚡ Fun fact **1 + 1 = 11**
+  
+- ⚡ My Resume **https://nishant-chamate.tiiny.site/**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h3 align="left">Connect with me:</h3>
